@@ -1,4 +1,4 @@
-# Musca domestica
+# Муха
 
 ![rexfeatures_1423212a.jpg](/imgstore/rexfeatures_1423212a.jpg)
 
