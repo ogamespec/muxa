@@ -2,8 +2,8 @@
 
 ![rexfeatures_1423212a.jpg](/imgstore/rexfeatures_1423212a.jpg)
 
-This project is focused on the reverse-engineering of the housefly.
+Этот проект посвящен реинжинирингу домашней мухи.
 
-This is my low-priority project, which I do in the mood.
+Это мой низкоприоритетный проект, которым я занимаюсь по настроению.
 
 🪰

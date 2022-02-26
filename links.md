@@ -1,6 +1,6 @@
-# Links
+# Ссылки
 
-Collection of external links.
+Коллекция внешних ссылок.
 
 ## Wikipedia
 
